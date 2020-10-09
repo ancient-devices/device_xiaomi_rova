@@ -13,7 +13,6 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_n_mr1.mk
 TARGET_BOOT_ANIMATION_RES := 720
 ANCIENT_OFFICIAL := true
 USE_PIXEL_CHARGING := true
-TARGET_USES_BLUR := true
 TARGET_FACE_UNLOCK_SUPPORTED := true
 $(call inherit-product, vendor/ancient/config/common_full_phone.mk)
 
