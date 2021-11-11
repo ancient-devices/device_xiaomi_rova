@@ -10,17 +10,5 @@
     "repository": "ancient-devices/vendor_xiaomi_rova",
     "target_path": "vendor/xiaomi/rova",
     "branch": "eleven"
-  },
-  {
-    "remote": "github",
-    "repository": "mvaisakh/gcc-arm64",
-    "target_path": "prebuilts/gcc64",
-    "branch": "gcc-master"
-  },
-  {
-    "remote": "github",
-    "repository": "mvaisakh/gcc-arm",
-    "target_path": "prebuilts/gcc32",
-    "branch": "gcc-master"
   }
 ]
