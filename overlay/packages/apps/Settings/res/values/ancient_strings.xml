@@ -18,6 +18,6 @@
     <string name="ancient_gpu_summary">Adreno 308</string>
     <string name="ancient_camera_mp_summary">13 MP, f/2.2, AF</string>
     <string name="ancient_screen_type_summary">IPS LCD 5.0 Inch</string>
-    <string name="maintainer_name">ItoRenz</string>
+    <string name="maintainer_name">Ridwan Adi Cahyono</string>
 
 </resources>
