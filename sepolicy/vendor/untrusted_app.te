@@ -29,3 +29,4 @@ allow untrusted_app oem_unlock_prop:file { read };
 allow untrusted_app input_device:dir { search };
 allow untrusted_app proc_zoneinfo:file { read };
 
+get_prop(untrusted_app, vendor_camera_prop)
