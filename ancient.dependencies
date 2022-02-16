@@ -3,12 +3,12 @@
     "remote": "github",
     "repository": "ancient-devices/kernel_xiaomi_rova",
     "target_path": "kernel/xiaomi/rova",
-    "branch": "eleven"
+    "branch": "twelve"
   },
   {
     "remote": "github",
     "repository": "ancient-devices/vendor_xiaomi_rova",
     "target_path": "vendor/xiaomi/rova",
-    "branch": "eleven"
+    "branch": "twelve"
   }
 ]
